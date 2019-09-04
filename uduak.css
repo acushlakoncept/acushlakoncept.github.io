@@ -146,6 +146,7 @@ ul li {
     background-image: linear-gradient(to right, darkgreen, rgb(11, 75, 11)); 
     opacity: .85;
     box-shadow: .1rem .2rem .4rem rgba(0, 0, 0, .8);
+    border-radius: .8rem;
 }
 
 
