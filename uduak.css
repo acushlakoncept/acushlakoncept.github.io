@@ -33,6 +33,15 @@ body {
     border-radius: 1.5rem;
 }
 
+@media only screen and (max-width: 800px) {
+  .container {
+      width: 98%;
+      padding: 2rem;
+  }
+}
+
+
+
 /* #exp, #edu {
     display: none;
 } */
@@ -150,7 +159,7 @@ ul li {
 
 @media only screen and (max-width: 700px) {
     .contact-section--form {
-       width: 90%;
+       width: 100%;
         transform: translate(-50%, -50%);
         
     }
